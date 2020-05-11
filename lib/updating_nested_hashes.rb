@@ -65,7 +65,7 @@ def add_characters
    # Code your solution here:
 
 epic_tragedy[:montague][:name] = "Prince Escalus"
-epic_tragedy[:capulet][:name] = 
+epic_tragedy[:capulet][:name] = "Apothecary"
 
 
 
